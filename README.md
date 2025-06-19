@@ -1,6 +1,6 @@
 # C++ Tutorial Practice
 
-This repository contains my personal C++ practice files as I follow the **C++ tutorial series** by [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd) on YouTube.
+This repository contains my personal C++ practice files as I follow the **C++ tutorial series** by [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA) on YouTube.
 
 ---
 
