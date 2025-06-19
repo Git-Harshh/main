@@ -9,4 +9,4 @@ int main(){
     // cout<<"The value of c is "<<setw(10)<<c<<endl;
    
     return 0;
-};
+}; 
